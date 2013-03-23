@@ -1,0 +1,26 @@
+{
+    "name": "jquery.naviDropDown",
+    "title": "jquery.naviDropDown",
+    "description": "Simple jQuery dropdown menu with easing and hoverIntent.",
+    "keywords": [
+        "dropdown",
+        "menu",
+        "easing"
+    ],
+    "version": "1.0.0",
+    "author": {
+        "name": "KT Cheung",
+        "url": "http://www.mashedcreative.com"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "homepage": "https://github.com/mashedcreative/jQuery.naviDropDown",
+    "docs": "https://github.com/mashedcreative/jQuery.naviDropDown",
+    "dependencies": {
+        "jquery": ">=1.9.1"
+    }
+}
