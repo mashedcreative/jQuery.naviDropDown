@@ -107,3 +107,6 @@ The element for the drop down is <em>.dropdown</em> – which is set as a parame
 ```
 ####Limitations:
 The default width of each dropdown is set to auto, so the automatic width will adjust to the width of the button for which the drop down is applied to. The plugin does not automatically calculate the width of the dropdown based on what is within it. You can manually overide the width from initiation – this applies to horizontal and vertical orientation. This is a basic jquery drop down menu, which obviously could be expanded, but can be customised further using CSS.
+
+#### Demo:
+<a href="http://www.mashedcreative.com/jquery-plugins/jquery.naviDropDown/demo.html" target="_blank">View Demo</a>
